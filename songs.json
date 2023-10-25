@@ -1,0 +1,38 @@
+{
+    "song1" : {
+        "song" : "SMOOTH CRIMINAL",
+        "artist" : "MICHAEL JACKSON",
+        "genre" : "R&B/Soul",
+        "link": "https://www.youtube.com/watch?v=h_D3VFfhvs4",
+        "id": "1"
+    },
+
+    "song2" : {
+        "song" : "THEY DON'T CARE ABOUT US",
+        "artist" : "MICHAEL JACKSON",
+        "genre" : "Rhythm and blues, Pop rock, Funk, Disco, Dance Pop, Classic Rock",
+        "link": "https://www.youtube.com/watch?v=QNJL6nfu__Q",
+        "id": "2"
+    },
+    "song3" : {
+        "song" : "AMAZED",
+        "artist" : "LONESTAR",
+        "genre" : "Country",
+        "link": "https://www.youtube.com/watch?v=x-skFgrV59A",
+        "id": "3"
+    },
+    "song4" : {
+        "song" : "LONELY",
+        "artist" : "AKON",
+        "genre" : "R&B/Soul, Reggae, Hip-Hop/Rap",
+        "link": "https://www.youtube.com/watch?v=6EEW-9NDM5k",
+        "id": "4"
+    },
+    "song5" : {
+        "song" : "WALANG YAMANG(MAS HIHIGIT SAYO)",
+        "artist" : "CUESHE",
+        "genre" : "Pop/Rock",
+        "link": "https://www.youtube.com/watch?v=KTeqO_01khA",
+        "id": "5"
+    }
+}
